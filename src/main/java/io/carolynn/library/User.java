@@ -1,5 +1,7 @@
 package io.carolynn.library;
 
+import java.util.*;
+
 public class User {
 
     private String lastName;
@@ -34,5 +36,21 @@ public class User {
 
     public void setLibraryCard(LibraryCard libraryCard) {
         this.libraryCard = libraryCard;
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        User user = (User) o;
+        return Objects.equals(lastName, user.lastName) &&
+                Objects.equals(firstName, user.firstName) &&
+                Objects.equals(libraryCard, user.libraryCard);
+    }
+
+    @Override
+    public int hashCode() {
+
+        return Objects.hash(lastName, firstName, libraryCard);
     }
 }
