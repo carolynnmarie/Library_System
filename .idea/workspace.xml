@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="573ace29-c059-409e-a43d-3343e913740b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/io/carolynn/library/Author.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/carolynn/library/Author.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/io/carolynn/library/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/carolynn/library/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/io/carolynn/library/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/carolynn/library/Library.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/io/carolynn/library/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/carolynn/library/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LibrarySystem.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -31,8 +28,8 @@
       <file leaf-file-name="Library.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/io/carolynn/library/Library.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="115" column="12" selection-start-line="115" selection-start-column="12" selection-end-line="115" selection-end-column="12" />
+            <state relative-caret-position="1920">
+              <caret line="128" column="34" selection-start-line="128" selection-start-column="34" selection-end-line="128" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -275,16 +272,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547413085131</updated>
-      <workItem from="1547413086488" duration="9871000" />
+      <workItem from="1547413086488" duration="11012000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9871000" />
+    <option name="totallyTimeSpent" value="11012000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="14" y="28" width="1418" height="815" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -296,11 +292,11 @@
       <window_info anchor="right" id="Maven Projects" weight="0.3297609" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.3286908" />
+      <window_info anchor="bottom" id="Version Control" weight="0.3286908" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32729805" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49860725" visible="true" weight="0.22020349" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49860725" visible="true" weight="0.22020349" />
       <window_info anchor="right" id="Database" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" sideWeight="0.5013928" side_tool="true" weight="0.2497939" />
@@ -403,8 +399,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/io/carolynn/library/Library.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="115" column="12" selection-start-line="115" selection-start-column="12" selection-end-line="115" selection-end-column="12" />
+        <state relative-caret-position="1920">
+          <caret line="128" column="34" selection-start-line="128" selection-start-column="34" selection-end-line="128" selection-end-column="34" />
         </state>
       </provider>
     </entry>
